@@ -8,3 +8,5 @@
     * trend of active cases statewise  
     * knowing the top vaccinated states
  3. Data Visualization of all the insights understood from data
+
+Libraries used: Pandas, NumPy, Matplotlib, Seaborn
